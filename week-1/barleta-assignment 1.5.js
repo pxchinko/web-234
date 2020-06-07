@@ -5,7 +5,9 @@
 ; Date: 7 Jun 2020
 ; Modified By: Nicole Barleta
 ; Description: This program demonstrates the
-; use of JavaScript decimal and date slashes
+; declaration of 3 employee records and the
+; use of JavaScript decimal format
+; and applying date slashes format
 ;===========================================
 */
 
