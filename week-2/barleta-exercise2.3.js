@@ -4,7 +4,7 @@
 ; Author: Professor Krasso
 ; Date:   8 June 2020
 ; Modified By: Marie Nicole Barleta
-; Description: Test for a formatted header
+; Description: Defining function properties
 ;===========================================
 */
 
