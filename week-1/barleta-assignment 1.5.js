@@ -17,7 +17,6 @@ var emp1_lastName = "Barleta";
 var emp1_address = "Champaign, IL";
 // Fix pay rate into 1 decimal
 var emp1_payRate = 9.8950;
-emp1_payRate.toFixed(1);
 // Hire date slashes format
 var emp1_dateStr = "2020/05/31";
 var emp1_hireDate = new Date(emp1_dateStr);
@@ -31,7 +30,8 @@ console.log("Employee #1")
 console.log("First Name: " +emp1_firstName)
 console.log("Last Name: " +emp1_lastName)
 console.log("Address: " +emp1_address)
-console.log("Pay Rate: " +emp1_payRate)
+// Fix pay rate into 1 decimal
+console.log("Pay Rate: " +emp1_payRate.toFixed(1))
 console.log("Hire Date: " +emp1_date)
 console.log("----------------------------")
 
@@ -41,7 +41,6 @@ var emp2_lastName = "Resendiz";
 var emp2_address = "Chicago, IL";
 // Fix pay rate into 1 decimal
 var emp2_payRate = 25.7540;
-emp1_payRate.toFixed(1);
 // Hire date slashes format
 var emp2_dateStr = "2017/03/22";
 var emp2_hireDate = new Date(emp2_dateStr);
@@ -54,7 +53,8 @@ console.log("Employee #2")
 console.log("First Name: " +emp2_firstName)
 console.log("Last Name: " +emp2_lastName)
 console.log("Address: " +emp2_address)
-console.log("Pay Rate: " +emp2_payRate)
+// Fix pay rate into 1 decimal
+console.log("Pay Rate: " +emp2_payRate.toFixed(1))
 console.log("Hire Date: " +emp2_date)
 console.log("----------------------------")
 
@@ -62,9 +62,8 @@ console.log("----------------------------")
 var emp3_firstName = "Marisol";
 var emp3_lastName = "Obispo";
 var emp3_address = "Urbana, IL";
-// Fix pay rate into 1 decimal
+
 var emp3_payRate = 17.9754;
-emp1_payRate.toFixed(1);
 // Hire date slashes format
 var emp3_dateStr = "2010/07/07";
 var emp3_hireDate = new Date(emp3_dateStr);
@@ -77,7 +76,8 @@ console.log("Employee #3")
 console.log("First Name: " +emp3_firstName)
 console.log("Last Name: " +emp3_lastName)
 console.log("Address: " +emp3_address)
-console.log("Pay Rate: " +emp3_payRate)
+// Fix pay rate into 1 decimal
+console.log("Pay Rate: " +emp3_payRate.toFixed(1))
 console.log("Hire Date: " +emp3_date)
 console.log("----------------------------")
 
