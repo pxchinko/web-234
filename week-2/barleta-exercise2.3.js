@@ -10,11 +10,16 @@
 
 
 // import statement
-const header = require('../barleta-header.js');
+var header = require('../barleta-header.js');
 
-console.log(header.display("Marie", "Barleta", "Exercise 2.3"));
+console.log(header.display("Marie", "Barleta", "Exercise 2.3 - Defining function properties"));
 
-console.log('\n');
+//function properties
+myName.marie = "Marie";
+lastName.barleta = "Barleta";
+greeting.hello = "Hello";
+
+
 //function returning name
 function myName(){
   return myName.marie;
@@ -28,7 +33,7 @@ function greeting(){
   return greeting.hello
 }
 
-myName.marie = "Marie";
-lastName.barleta = "Barleta!";
-greeting.hello = "Hello";
-console.log(greeting(), myName(), lastName());
+
+
+console.log('\n')
+console.log(greeting(), myName(), lastName() +"!");
