@@ -5,4 +5,6 @@ Introduction to JavaScript
 
 Professor Krasso - Bellevue University
 
+Professor Cross - Bellevue University
+
 Marie Nicole Barleta - Bellevue University
