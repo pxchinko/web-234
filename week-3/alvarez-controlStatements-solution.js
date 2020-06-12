@@ -15,8 +15,8 @@ let number = '';
 
 /*
 My solution:
-1. Added an open curly bracket, for loop statement.
-2. Added a plus sign (+), to increment.
+1. Added an open curly bracket, to declare the statement properly.
+2. Added a plus sign (+), to increment the loop properly.
 */
 for (let i = 0; i < 11; i++){
 number += i + "\n";
