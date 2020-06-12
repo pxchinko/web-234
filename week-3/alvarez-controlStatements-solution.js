@@ -15,11 +15,8 @@ let number = '';
 
 /*
 My solution:
-
 1. Added an open curly bracket, for loop statement.
 2. Added a plus sign (+), to increment.
-3. Changed the Number variable in console log into small case 'n'.
-
 */
 for (let i = 0; i < 11; i++){
 number += i + "\n";
@@ -29,6 +26,6 @@ number += i + "\n";
 
 /*
 My solution:
-3. Changed the Number variable in console log into small case 'n'.
+3. Changed the Number variable in console log into small case 'n' because the variable declared is number and JavaScript is case sensitive.
 */
 console.log(number);
