@@ -4,7 +4,7 @@
 ; Author: Professor Krasso
 ; Date:   14 June 2020
 ; Modified By: Marie Nicole Barleta
-; Description: Loops
+; Description: Generate random numbers from 1-10 and match variable with random numbers
 ;===========================================
 */
 
