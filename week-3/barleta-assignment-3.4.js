@@ -13,8 +13,7 @@ var header = require('../barleta-header.js');
 console.log(header.display("Marie", "Barleta", "Numbers Match Game"));
 console.log("\n")
 
-
-
+//Start of code
 
 //variable
 var number = 7
@@ -50,5 +49,4 @@ for (var i=1; i <=10; i++){
   }
 }
 
-
-
+//End of code
