@@ -1,6 +1,6 @@
 /*
 ============================================
-; Title:  controlStatements-error.js
+; Title:  barleta-exercise-3.2.js
 ; Author: Professor Krasso
 ; Date:   14 June 2020
 ; Modified By: Marie Nicole Barleta
