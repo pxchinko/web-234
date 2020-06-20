@@ -45,4 +45,3 @@ for (let index = 1; index < numArray.length; index++) {
 
 //output
 console.log(payload);
-

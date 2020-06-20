@@ -13,18 +13,6 @@ var header = require('../barleta-header.js');
 console.log(header.display("Marie", "Barleta", "Exercise 4.2"));
 console.log("\n")
 
-/*
-  Expected output:
-  FirstName LastName
-  Exercise 4.2
-  Today's Date
-  Apple
-  Orange
-  Banana
-  Mango
-  Pear
-*/
-
 //start code
 var fruits = ['Apple', 'Orange', 'Banana', 'Mango', 'Pear'];
 
