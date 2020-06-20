@@ -4,7 +4,7 @@
 ; Author: Professor Krasso
 ; Date:   20 June 2020
 ; Modified By: Marie Nicole Barleta
-; Description:
+; Description: Arrays in filter and sort functions
 ;===========================================
 */
 
@@ -29,9 +29,7 @@ the current element of the filter loop and the value to find
  (see page 154 of the courses textbook).
 */
 function getState(arr, filterVal){
-  //for (var k=0; k < arr.length; k++){
     return (arr === filterVal)
-  //}
 }
 //Output
 //Display the contents of the original array
